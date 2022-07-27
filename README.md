@@ -1,34 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MC3 TEAM1 LATER
 
-## Getting Started
+호스팅 관리 Repository 입니다.
+Built with NEXT.js, Typescript, and Firebase hosting.
 
-First, run the development server:
+## ⏰LATER
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 👨‍👨‍👧‍👦👨‍👦 Members
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+| <img src="https://github.com/mxnxxii.png"> | <img src="https://github.com/myungjinsim.png"> | <img src="https://github.com/phainestha1.png"> | <img src="https://github.com/timo-nam.png"> | <img src="https://github.com/devluce.png"> | <img src="https://github.com/otoolz.png"> |
+| :----------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :---------------------------------------: |
+|     [로미](https://github.com/mxnxxii)     |    [스티브](https://github.com/myungjinsim)    |     [테오](https://github.com/phainestha1)     |     [티모](https://github.com/timo-nam)     |     [혀키](https://github.com/devluce)     |     [홍기](https://github.com/otoolz)     |
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🤙 Git Commit Convention
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+| _Type_         | _Subject_                                                  |
+| :------------- | :--------------------------------------------------------- |
+| **[Add]**      | 새로운 파일 추가                                           |
+| **[Feat]**     | 새로운 기능 추가                                           |
+| **[Fix]**      | 버그 수정                                                  |
+| **[Docs]**     | 문서 관련 추가, 수정, 삭제                                 |
+| **[Style]**    | 코드의 변화와 관련없는 포맷의 변경                         |
+| **[Refactor]** | 코드 리팩토링                                              |
+| **[Comment]**  | 필요한 주석 추가 및 변경                                   |
+| **[Rename]**   | 파일 혹은 폴더명을 수정하거나 옮기는 작업                  |
+| **[Remove]**   | 파일을 삭제하는 작업 수행                                  |
+| **[Chore]**    | 빌드 업무 수정, 패키지 매니저 수정 (ex. gitignore 수정 등) |
